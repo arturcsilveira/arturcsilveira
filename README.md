@@ -1,7 +1,7 @@
 <h1 align="center">Hello, There 👋</h1>
 
 <p align="center">
-  Estou Iniciando na área, buscando sempre me aperfeiçoar e aprender sobre tecnologia.
+  Me chamo Artur Silveira, estou iniciando na área, buscando sempre me aperfeiçoar e aprender sobre tecnologia.
 </p>
 
 <p align="center">
@@ -12,15 +12,21 @@
 
 ---
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=arturcsilveira&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arturcsilveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
 ### 🧠 Sobre Mim
 
 - ✨ Sou iniciante na área!
-- 🎓 Estudante de Engenharia de Computação na Universidade Senai Cimatec!
+- 🎓 Estudante de Engenharia de Computação
 - 🤔 Alguns me chamam de Wertoy!
+- 📌 Salvador - BA
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGY5dzY4ZDFvZjFrbGNycnZyaHluaHJ4dG9wdnY3cWNwNDBhcm5kYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6nULmOVbmAyELkJ2/giphy.gif" width="400px" alt="commit gif looping" />
-</p>
+## 💻 O que estou aprendendo
+
+[![Learning](https://skillicons.dev/icons?i=html,css,js,figma,github,git,c,py,&theme=light)](https://skillicons.dev)
 
 <p align="center">
   <em>Beba Água!</em> 💧
