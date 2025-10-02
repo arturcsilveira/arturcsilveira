@@ -16,7 +16,6 @@
 
 - ✨ Sou iniciante na área!
 - 🎓 Estudante de Engenharia de Computação
-- 🤔 Alguns me chamam de Wertoy!
 - 📌 Salvador - BA
 
 ## 💻 O que estou aprendendo
