@@ -12,12 +12,6 @@
 
 ---
 
-### 🧠 Sobre Mim
-
-- ✨ Sou iniciante na área!
-- 🎓 Estudante de Engenharia de Computação
-- 📌 Salvador - BA
-
 ## 💻 O que estou aprendendo
 
 [![Learning](https://skillicons.dev/icons?i=html,css,js,figma,github,git,c,py,&theme=light)](https://skillicons.dev)
