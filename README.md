@@ -14,7 +14,7 @@
 
 ## 💻 O que estou aprendendo
 
-[![Learning](https://skillicons.dev/icons?i=html,css,js,figma,github,git,c,py,&theme=light)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=html,css,js,figma,github,git,java,&theme=light)](https://skillicons.dev)
 
 
 
